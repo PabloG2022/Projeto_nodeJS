@@ -1,2 +1,4 @@
 # Projeto_NodeJS
- Lista de itens de acordo com a quantidade digitada
+o projeto exibirá um menu de quantidades, o numero que você digitar aparecerão os itens na tela
+liguagens utilizadas: html, css,java Script e o framework Node.js
+framework express,  dependencias yarn e banco de dados não relacional JSON 
